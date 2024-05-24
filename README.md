@@ -1,2 +1,2 @@
 # Python-Assignments
-This assignment is from the youtube channel named codebasics
+This assignments are from the youtube channel named codebasics
